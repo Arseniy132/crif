@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4a6fb21-eaf2-4ffb-bf48-2d87604848b2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CRIF.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PNG_CRIF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRIF_PNG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CRIF_PYGAME.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PNG_CRIF.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.CRIF.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CRIF_PNG.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PNG_CRIF.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/arch/PycharmProjects/CRIF&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.CRIF.executor": "Run",
+    "Python.CRIF_PNG.executor": "Run",
+    "Python.PNG_CRIF.executor": "Run",
+    "Python.c-py.executor": "Run",
+    "Python.p-c.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/arch/Downloads/monokai-pro-jetbrains.jar",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
